@@ -1,0 +1,17 @@
+/* Fantasy Theme */
+body {
+    background-color: #f4e7d3; /* Parchment-like background */
+    color: #5a4a3a; /* Darker text */
+    font-family: Georgia, serif; /* More traditional font */
+}
+
+.st-emotion-cache-1cypcdb {
+    /* Adjust sidebar background for fantasy theme */
+    background-color: #d4c2a8;
+}
+
+h1, h2, h3 {
+    color: #7b3f00; /* Dark brown/gold color */
+}
+
+/* Add more specific styles for different elements */

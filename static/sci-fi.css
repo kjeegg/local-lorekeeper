@@ -1,0 +1,17 @@
+/* Sci-Fi Theme */
+body {
+    background-color: #1a1a2e; /* Dark space background */
+    color: #00ffff; /* Cyan text */
+    font-family: 'Courier New', monospace; /* Techy font */
+}
+
+.st-emotion-cache-1cypcdb {
+     /* Adjust sidebar background for sci-fi theme */
+    background-color: #0f0f23;
+}
+
+h1, h2, h3 {
+    color: #ff00ff; /* Magenta color */
+}
+
+/* Add more specific styles for different elements */

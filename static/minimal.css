@@ -1,0 +1,17 @@
+/* Minimal Theme */
+body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.st-emotion-cache-1cypcdb {
+     /* Adjust sidebar background for minimal theme */
+    background-color: #f8f8f8;
+}
+
+h1, h2, h3 {
+    color: #333333;
+}
+
+/* Add more specific styles for different elements */

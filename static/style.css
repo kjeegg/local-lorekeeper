@@ -1,0 +1,63 @@
+/* Default Theme */
+body {
+    font-family: sans-serif;
+    color: #333;
+    background-color: #f0f2f6;
+}
+
+/* Fantasy Theme Example */
+.fantasy-theme body {
+    background-color: #f4e7d3; /* Parchment-like background */
+    color: #5a4a3a; /* Darker text */
+    font-family: Georgia, serif; /* More traditional font */
+}
+
+.fantasy-theme .st-emotion-cache-1cypcdb {
+    /* Adjust sidebar background for fantasy theme */
+    background-color: #d4c2a8;
+}
+
+/* Add more specific styles for different elements (headers, text areas, buttons) */
+/* Example: Adjust header color */
+.fantasy-theme h1, .fantasy-theme h2, .fantasy-theme h3 {
+    color: #7b3f00; /* Dark brown/gold color */
+}
+
+/* Sci-Fi Theme Example */
+.sci-fi-theme body {
+    background-color: #1a1a2e; /* Dark space background */
+    color: #00ffff; /* Cyan text */
+    font-family: 'Courier New', monospace; /* Techy font */
+}
+
+.sci-fi-theme .st-emotion-cache-1cypcdb {
+     /* Adjust sidebar background for sci-fi theme */
+    background-color: #0f0f23;
+}
+
+/* Add more specific styles for different elements */
+.sci-fi-theme h1, .sci-fi-theme h2, .sci-fi-theme h3 {
+    color: #ff00ff; /* Magenta color */
+}
+
+/* Minimal Theme Example */
+.minimal-theme body {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.minimal-theme .st-emotion-cache-1cypcdb {
+     /* Adjust sidebar background for minimal theme */
+    background-color: #f8f8f8;
+}
+
+/* Add more specific styles for different elements */
+.minimal-theme h1, .minimal-theme h2, .minimal-theme h3 {
+    color: #333333;
+}
+
+/* Helper class to apply theme */
+.apply-theme {
+    /* This class will be applied to the main container */
+}
